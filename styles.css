@@ -4,7 +4,7 @@
     font-family: "proxima-nova", sans-serif;
 }
 
-ul {
+nav ul {
     display: flex;
     justify-content: right;
     list-style-type: none;
@@ -12,10 +12,10 @@ ul {
     padding: 0;
 }
 
-ul li {
+nav ul li {
     float: left;
 }
-ul li a {
+nav ul li a {
     padding: 14px 16px;
     color: black;
     text-decoration: none;
